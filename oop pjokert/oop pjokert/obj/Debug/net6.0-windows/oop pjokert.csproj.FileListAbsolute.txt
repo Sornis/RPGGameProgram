@@ -1,0 +1,5 @@
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows\oop pjokert.csproj.AssemblyReference.cache
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows\oop pjokert_MarkupCompile.cache
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows\oop pjokert_MarkupCompile.lref

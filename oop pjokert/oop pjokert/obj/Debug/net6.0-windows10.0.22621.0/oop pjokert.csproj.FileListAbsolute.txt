@@ -1,0 +1,23 @@
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.csproj.AssemblyReference.cache
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\MainWindow.g.cs
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\App.g.cs
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert_MarkupCompile.cache
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\bin\Debug\net6.0-windows10.0.22621.0\oop pjokert.exe
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\bin\Debug\net6.0-windows10.0.22621.0\oop pjokert.deps.json
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\bin\Debug\net6.0-windows10.0.22621.0\oop pjokert.runtimeconfig.json
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\bin\Debug\net6.0-windows10.0.22621.0\oop pjokert.dll
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\bin\Debug\net6.0-windows10.0.22621.0\oop pjokert.pdb
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\MainWindow.baml
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.g.resources
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.AssemblyInfoInputs.cache
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.AssemblyInfo.cs
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.csproj.CopyComplete
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.dll
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\refint\oop pjokert.dll
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.pdb
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\oop pjokert.genruntimeconfig.cache
+C:\Users\kaspe\source\repos\oop pjokert\oop pjokert\obj\Debug\net6.0-windows10.0.22621.0\ref\oop pjokert.dll

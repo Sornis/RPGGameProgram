@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQ2/FfH7R4pGeTAixQ9OW8uZg6wo7RY9RTauCbs+/oxOHLouQECp3sPKrkClgt4LY49b3KP0jehfQOX08PbvzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaspe\\source\\repos\\oop pjokert\\oop pjokert\\oop pjokert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaspe\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.27\\microsoft.windows.sdk.net.ref.10.0.22621.27.nupkg.sha512"
+  ],
+  "logs": []
+}

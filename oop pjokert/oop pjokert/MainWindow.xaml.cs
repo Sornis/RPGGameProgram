@@ -32,19 +32,19 @@ namespace Timer_and_Keyboard_MOO_ICT
 
             myCanvas.Focus();
 
-            gameTimer.Tick += GameTimerEvent;
-            gameTimer.Interval = TimeSpan.FromMilliseconds(60);
+            gameTimer.Tick += GameTimerEvent; // for hver vores gameTimer tick call then vores function 
+            gameTimer.Interval = TimeSpan.FromMilliseconds(60); // det er hvor tid være imellem vores tick
             gameTimer.Start();
             T1.Start();
 
             test(0, 0);
-            // age();
 
         }
 
-
         private void GameTimerEvent(object sender, EventArgs e)
         {
+
+
             if (goLeft == true && Canvas.GetLeft(player) > 5)
             {
                 Canvas.SetLeft(player, Canvas.GetLeft(player) - playerSpeed);
@@ -66,11 +66,11 @@ namespace Timer_and_Keyboard_MOO_ICT
 
 
 
-        private void KeyIsDown(object sender, KeyEventArgs e)
+        private void KeyIsDown(object sender, KeyEventArgs e) // vores function til chekke vores tats er press ned
         {
             if (e.Key == Key.Left)
             {
-                goLeft = true;
+                goLeft = true; //bruger i function GameTimerEvent til at så længe sandt rykker skal sig som  den når tats er pressed ned 
             }
             if (e.Key == Key.Right)
             {
@@ -86,7 +86,7 @@ namespace Timer_and_Keyboard_MOO_ICT
             }
         }
 
-        private void KeyIsUp(object sender, KeyEventArgs e)
+        private void KeyIsUp(object sender, KeyEventArgs e) // vores function skifte bool false når key ikke pressed så vi forsætter med bevæge os
         {
             if (e.Key == Key.Left)
             {
@@ -108,13 +108,13 @@ namespace Timer_and_Keyboard_MOO_ICT
 
         public void test(int a, int b)
         {
-            try
+            try // den prøver code CreateRectangle(a, b) hvis fejl så ned catch
             {
                 CreateRectangle(a, b);
             }
-            catch (DivideByZeroException ex)
+            catch (DivideByZeroException ex) // catch er hvordan vores fejl 
             {
-                if (a == 0) { a = 10; }
+                if (a == 0) { a = 10; } //   hvis a eller b er 0 så sættet til vores andre værdi så for fejlen
                 if (b == 0) { b = 20; }
                 CreateRectangle(a, b);
 
@@ -143,11 +143,10 @@ namespace Timer_and_Keyboard_MOO_ICT
             int i = 0;
             {
 
-                do
+                do // do while er et antal gang som vores code i køre i loop
                 {
-                    Thread.Sleep(5000);
+                    Thread.Sleep(5000); // foræller vores tråd at den skal ikke gøre noget i 5 sec 
                     this.Dispatcher.BeginInvoke((Action)(() =>
-                    // changePlayerHeight();
                     player.Height += 2));
 
                     i++;
@@ -159,39 +158,9 @@ namespace Timer_and_Keyboard_MOO_ICT
         }
 
     }
-
-    public class Humen : Creatures
-    {
-        // public string Name = " Humen";
-
-        public Humen(string race, int height, int width, int health, int damage) : base(race, height, width, health, damage)
-        { }
-        private string race = "Humen";
-        private int Height = 10;
-        private int Width = 0;
-        private int Health = 0;
-        private int Damage = 0;
-
-
-
-
-
-    }
-
-
 }
 
 
-
-/* public string Race = "Humen";
- public int Height = 10;
- public int Width = 10;
- public int health = 10;
- public int damage = 10;
-
- public Humen(string? race, int height, int width, int health, int damage) : base(race, height, width, health, damage)
- {
- }*/
 
 
 
